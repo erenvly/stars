@@ -276,10 +276,10 @@
 
 - [Neutron-Toolchains/clang-build-catalogue](https://github.com/Neutron-Toolchains/clang-build-catalogue) - Uhh, a repo where Neutron clang tc builds will be released and build details would be pushed
 - [nicoth-in/Dark-Space-Theme](https://github.com/nicoth-in/Dark-Space-Theme) - Firefox Theme
-- [erffy/zix](https://github.com/erffy/zix) - A fast, lightweight, and powerful Zig version manager.
-- [erffy/zig-sysinfo](https://github.com/erffy/zig-sysinfo) - A library that retrieves system information
+- [erenvly/zix](https://github.com/erenvly/zix) - A fast, lightweight, and powerful Zig version manager.
+- [erenvly/zig-sysinfo](https://github.com/erenvly/zig-sysinfo) - A library that retrieves system information
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [erffy/zig-waybar-contrib](https://github.com/erffy/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
+- [erenvly/zig-waybar-contrib](https://github.com/erenvly/zig-waybar-contrib) - ⚡ High-performance Waybar modules written in Zig for efficient system monitoring
 
 ## PHP 
 
@@ -328,6 +328,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [MegalithOfficial/basalt-launcher](https://github.com/MegalithOfficial/basalt-launcher) - A open source Minecraft launcher written in rust. Modrinth and CurseForge, mod loaders, and imports from other launchers.
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
@@ -498,5 +499,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [erffy](https://github.com/erffy) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [erenvly](https://github.com/erenvly) has waived all copyright and related or neighboring rights to this work.
 

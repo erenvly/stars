@@ -378,7 +378,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [haarshalsawant/CoreTaskOptimizer](https://github.com/haarshalsawant/CoreTaskOptimizer) - Android module that tunes CPU affinity, scheduler priorities, and I/O policies.
+- [c0d3h01/coretaskoptimizer](https://github.com/c0d3h01/coretaskoptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
 - [NotZeetaa/YAKT](https://github.com/NotZeetaa/YAKT) - Yet Another Kernel Tweaker. A Magisk module to Tweak your Kernel parameters
 - [reiryuki/One-UI-Core-Magisk-Module](https://github.com/reiryuki/One-UI-Core-Magisk-Module) - 
 - [Nigel1992/Waydroid-Advanced-Manager](https://github.com/Nigel1992/Waydroid-Advanced-Manager) - 🚀 The ultimate all-in-one Bash CLI toolkit for Waydroid — start/stop, install APKs, manage apps, transfer files, capture screenshots, record screen, view logcat, freeze bloatware, change display setti

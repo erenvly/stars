@@ -154,6 +154,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -932,6 +933,9 @@
 
 ## others 
 
+- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
+- [imputnet/helium-services](https://github.com/imputnet/helium-services) - services for helium browser provided on services.helium.imput.net
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [DanGLVK/Hide-Navbar](https://github.com/DanGLVK/Hide-Navbar) - Hide Navbar
 - [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
@@ -1412,6 +1416,13 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
+## windows-11 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+- [jishnu-kv/WinUI-3-Apps-List](https://github.com/jishnu-kv/WinUI-3-Apps-List) - A curated collection of over 800+ apps that embrace the WinUI Design
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+
 ## workflow 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1432,6 +1443,8 @@
 
 ## zig 
 
+- [zigtools/lsp-kit](https://github.com/zigtools/lsp-kit) - The necessary building blocks to develop LSP implementations in Zig.
+- [zigtools/zls](https://github.com/zigtools/zls) - A language server for Zig supporting developers with features like autocomplete and goto definition
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [jiacai2050/zig-curl](https://github.com/jiacai2050/zig-curl) - Libcurl bindings for Zig
 - [luxluth/goose](https://github.com/luxluth/goose) - A pure Zig D-Bus implementation

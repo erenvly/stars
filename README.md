@@ -380,7 +380,7 @@
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [ungoogled-software/ungoogled-chromium-android](https://github.com/ungoogled-software/ungoogled-chromium-android) - Android build for ungoogled-chromium
 - [bearinmindcat/ungoogled-chromium-android](https://github.com/bearinmindcat/ungoogled-chromium-android) - Android build for ungoogled-chromium
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [c0d3h01/coretaskoptimizer](https://github.com/c0d3h01/coretaskoptimizer) - Android Root Module - Tunes CPU affinity, Scheduler Priorities & I/O policies
@@ -431,7 +431,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) - Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.
 - [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more.
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
+- [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [Kobii-git/rackpad](https://github.com/Kobii-git/rackpad) - Self-hosted infrastructure inventory and operations for homelabs and labs: racks, devices, ports, cables, IPAM, VLANs, WiFi, compute, discovery, monitoring, reports, and topology visualization.

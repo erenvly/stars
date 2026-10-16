@@ -947,7 +947,7 @@
 
 - [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme) - Layan-gtk-theme
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy aims for sensible and intuitive defaults, yet highly customizable theming, for the KDE Plasma desktop.
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [imputnet/helium-services](https://github.com/imputnet/helium-services) - services for helium browser provided on services.helium.imput.net

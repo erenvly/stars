@@ -95,7 +95,7 @@
 
 ## C++ 
 
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers sensible defaults, yet highly customizable theming, for the KDE Plasma desktop.
 - [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi) - Alternative NVAPI implementation on top of DXVK.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
